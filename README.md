@@ -46,7 +46,7 @@ Accuracy 100% .
 
 ![image](https://github.com/AmiraFathy01/Plant_Disease-tomato-cnn-/assets/79209830/7359a65e-39db-4dfe-910b-ed5fc279bcc2)
 
-![image](https://github.com/AmiraFathy01/Plant_Disease-tomato-cnn-/assets/79209830/7340abbb-a589-4997-bd2e-1d237c6af4dc)
+![image](https://github.com/AmiraFathy01/Plant_Disease-tomato-cnn-/assets/79209830/bbbee75f-02c6-45b1-b543-12ebc1e63318)
 
 
 # Testing result 
